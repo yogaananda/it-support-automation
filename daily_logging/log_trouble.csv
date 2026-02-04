@@ -1,0 +1,101 @@
+Timestamp,Username,PC,Urgensi,Trouble
+2026-01-01 00:32:45,budi,hp-elitebook,Critical,sistem lemot
+2026-01-01 09:45:20,gina,thinkpad-x1,High,printer macet
+2026-01-01 19:01:52,hadi,macbook-pro,Low,sistem lemot
+2026-01-02 17:48:16,gina,asus-zenbook,High,blue screen
+2026-01-03 00:11:18,siti,asus-zenbook,High,koneksi wifi putus
+2026-01-03 01:15:18,budi,hp-elitebook,Critical,aplikasi force close
+2026-01-03 14:54:40,dewi,macbook-pro,Low,aplikasi force close
+2026-01-03 19:52:02,fitri,thinkpad-x1,Critical,printer macet
+2026-01-03 20:27:09,ani,yogaananda,High,koneksi wifi putus
+2026-01-03 21:52:53,hadi,asus-zenbook,Critical,blue screen
+2026-01-04 04:13:29,eko,dell-precision,Medium,blue screen
+2026-01-04 09:34:07,eko,macbook-pro,Medium,blue screen
+2026-01-04 23:39:14,agus,yogaananda,Low,printer macet
+2026-01-05 10:26:48,ani,dell-precision,Medium,aplikasi force close
+2026-01-05 21:45:49,budi,thinkpad-x1,Low,sistem lemot
+2026-01-06 00:40:43,dewi,dell-precision,Critical,printer macet
+2026-01-06 05:45:31,gina,macbook-pro,High,printer macet
+2026-01-06 08:44:36,raffi,dell-precision,Critical,printer macet
+2026-01-06 11:35:26,gina,yogaananda,Low,aplikasi force close
+2026-01-07 01:12:28,hadi,dell-precision,High,aplikasi force close
+2026-01-07 16:15:13,budi,asus-zenbook,High,printer macet
+2026-01-07 23:49:59,ani,hp-elitebook,Critical,printer macet
+2026-01-08 10:14:44,eko,macbook-pro,Critical,rocket eror
+2026-01-09 03:48:22,eko,thinkpad-x1,High,blue screen
+2026-01-09 09:46:48,eko,thinkpad-x1,Critical,rocket eror
+2026-01-09 23:23:16,budi,hp-elitebook,Medium,sistem lemot
+2026-01-10 15:30:13,fitri,asus-zenbook,Critical,koneksi wifi putus
+2026-01-10 20:28:26,dewi,asus-zenbook,Medium,printer macet
+2026-01-11 02:27:05,gina,hp-elitebook,Critical,printer macet
+2026-01-11 04:15:39,raffi,asus-zenbook,Low,sistem lemot
+2026-01-11 09:34:29,ani,dell-precision,High,aplikasi force close
+2026-01-11 19:37:11,fitri,dell-precision,Medium,sistem lemot
+2026-01-11 20:15:19,siti,macbook-pro,High,blue screen
+2026-01-12 11:31:42,agus,macbook-pro,Low,koneksi wifi putus
+2026-01-12 23:00:30,hadi,thinkpad-x1,Low,sistem lemot
+2026-01-14 04:04:11,eko,macbook-pro,Low,sistem lemot
+2026-01-14 06:18:03,fitri,dell-precision,Medium,aplikasi force close
+2026-01-14 11:03:13,agus,thinkpad-x1,High,rocket eror
+2026-01-14 13:20:59,ani,asus-zenbook,Critical,rocket eror
+2026-01-14 18:39:07,gina,macbook-pro,High,koneksi wifi putus
+2026-01-14 20:59:13,budi,macbook-pro,Low,blue screen
+2026-01-15 02:14:56,agus,dell-precision,Critical,sistem lemot
+2026-01-15 06:23:47,hadi,macbook-pro,Medium,aplikasi force close
+2026-01-15 06:56:36,dewi,yogaananda,High,aplikasi force close
+2026-01-15 16:39:07,raffi,asus-zenbook,High,printer macet
+2026-01-16 08:10:27,fitri,macbook-pro,Low,rocket eror
+2026-01-16 13:45:44,siti,asus-zenbook,Critical,koneksi wifi putus
+2026-01-16 15:05:33,budi,macbook-pro,High,printer macet
+2026-01-16 20:00:56,gina,macbook-pro,Critical,blue screen
+2026-01-16 20:54:18,fitri,macbook-pro,Critical,aplikasi force close
+2026-01-17 02:00:30,eko,yogaananda,Critical,rocket eror
+2026-01-17 02:01:16,budi,asus-zenbook,Critical,aplikasi force close
+2026-01-17 02:42:51,gina,macbook-pro,Low,printer macet
+2026-01-17 19:53:08,agus,hp-elitebook,Low,rocket eror
+2026-01-17 21:16:40,fitri,asus-zenbook,Medium,koneksi wifi putus
+2026-01-17 23:43:24,gina,thinkpad-x1,High,koneksi wifi putus
+2026-01-18 03:01:42,agus,macbook-pro,Medium,rocket eror
+2026-01-18 13:48:34,dewi,hp-elitebook,Medium,rocket eror
+2026-01-18 13:56:07,budi,thinkpad-x1,High,blue screen
+2026-01-18 14:56:41,dewi,thinkpad-x1,High,koneksi wifi putus
+2026-01-18 19:59:12,fitri,dell-precision,Critical,blue screen
+2026-01-19 01:18:28,siti,hp-elitebook,Critical,aplikasi force close
+2026-01-20 01:58:07,fitri,hp-elitebook,Critical,koneksi wifi putus
+2026-01-20 07:09:29,fitri,dell-precision,Critical,printer macet
+2026-01-20 07:52:29,ani,dell-precision,Medium,blue screen
+2026-01-20 10:58:44,dewi,macbook-pro,Critical,printer macet
+2026-01-20 16:02:35,siti,yogaananda,High,rocket eror
+2026-01-20 17:49:19,raffi,thinkpad-x1,High,blue screen
+2026-01-20 18:00:13,gina,dell-precision,Low,printer macet
+2026-01-20 21:09:12,agus,hp-elitebook,Low,aplikasi force close
+2026-01-21 06:08:50,dewi,dell-precision,Medium,koneksi wifi putus
+2026-01-22 00:09:23,hadi,asus-zenbook,Critical,sistem lemot
+2026-01-22 07:16:49,siti,hp-elitebook,Low,koneksi wifi putus
+2026-01-22 07:29:52,fitri,hp-elitebook,Medium,blue screen
+2026-01-22 11:14:20,fitri,asus-zenbook,Low,sistem lemot
+2026-01-23 03:31:10,raffi,yogaananda,Critical,rocket eror
+2026-01-23 07:08:19,budi,asus-zenbook,Low,printer macet
+2026-01-23 13:43:03,siti,asus-zenbook,Low,rocket eror
+2026-01-23 17:13:37,fitri,macbook-pro,High,sistem lemot
+2026-01-23 18:48:24,eko,dell-precision,High,koneksi wifi putus
+2026-01-23 18:58:39,raffi,asus-zenbook,High,rocket eror
+2026-01-24 02:38:58,hadi,macbook-pro,Critical,printer macet
+2026-01-25 00:55:06,eko,hp-elitebook,Low,koneksi wifi putus
+2026-01-25 01:17:18,eko,thinkpad-x1,Critical,koneksi wifi putus
+2026-01-25 16:57:34,ani,yogaananda,Medium,koneksi wifi putus
+2026-01-25 17:28:25,dewi,thinkpad-x1,Low,sistem lemot
+2026-01-26 07:26:17,hadi,yogaananda,High,koneksi wifi putus
+2026-01-26 09:32:00,dewi,thinkpad-x1,Low,blue screen
+2026-01-27 02:53:43,gina,dell-precision,Medium,rocket eror
+2026-01-27 08:24:49,fitri,thinkpad-x1,Low,printer macet
+2026-01-27 18:21:49,eko,macbook-pro,High,sistem lemot
+2026-01-27 21:30:48,dewi,dell-precision,High,rocket eror
+2026-01-28 12:15:56,eko,asus-zenbook,Critical,rocket eror
+2026-01-28 16:39:15,ani,macbook-pro,Low,printer macet
+2026-01-30 02:41:37,ani,macbook-pro,Low,rocket eror
+2026-01-30 09:17:37,gina,yogaananda,Critical,koneksi wifi putus
+2026-01-30 13:36:11,ani,macbook-pro,Medium,sistem lemot
+2026-01-30 21:52:09,siti,hp-elitebook,High,sistem lemot
+2026-02-01 15:58:04,raffi,yogaananda,Low,blue screen
+2026-02-02 10:32:39,gina,yogaananda,Low,sistem lemot
