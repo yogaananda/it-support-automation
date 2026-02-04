@@ -1,7 +1,7 @@
 # 🛠️ IT Support Automation Tools
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Self-project-orange?style=for-the-badge)
+
 
 ## 📌 Tentang Project Ini
 
